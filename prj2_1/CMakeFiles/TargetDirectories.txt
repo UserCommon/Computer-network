@@ -1,0 +1,4 @@
+/home/usercommon/kubsu/Computer-network/prj2_1/CMakeFiles/server.dir
+/home/usercommon/kubsu/Computer-network/prj2_1/CMakeFiles/client.dir
+/home/usercommon/kubsu/Computer-network/prj2_1/CMakeFiles/edit_cache.dir
+/home/usercommon/kubsu/Computer-network/prj2_1/CMakeFiles/rebuild_cache.dir

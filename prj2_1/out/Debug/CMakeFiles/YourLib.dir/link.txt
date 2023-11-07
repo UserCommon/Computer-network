@@ -1,0 +1,2 @@
+/usr/bin/ar qc libYourLib.a CMakeFiles/YourLib.dir/client.cc.o CMakeFiles/YourLib.dir/server.cc.o
+/usr/bin/ranlib libYourLib.a
