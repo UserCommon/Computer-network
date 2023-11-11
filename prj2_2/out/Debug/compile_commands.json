@@ -1,0 +1,26 @@
+[
+{
+  "directory": "/home/usercommon/kubsu/Computer-network/prj2_1/out/Debug",
+  "command": "/usr/bin/c++   -g -o CMakeFiles/YourLib.dir/client.cc.o -c /home/usercommon/kubsu/Computer-network/prj2_1/client.cc",
+  "file": "/home/usercommon/kubsu/Computer-network/prj2_1/client.cc",
+  "output": "CMakeFiles/YourLib.dir/client.cc.o"
+},
+{
+  "directory": "/home/usercommon/kubsu/Computer-network/prj2_1/out/Debug",
+  "command": "/usr/bin/c++   -g -o CMakeFiles/YourLib.dir/server.cc.o -c /home/usercommon/kubsu/Computer-network/prj2_1/server.cc",
+  "file": "/home/usercommon/kubsu/Computer-network/prj2_1/server.cc",
+  "output": "CMakeFiles/YourLib.dir/server.cc.o"
+},
+{
+  "directory": "/home/usercommon/kubsu/Computer-network/prj2_1/out/Debug",
+  "command": "/usr/bin/c++   -g -o CMakeFiles/client.dir/client.cc.o -c /home/usercommon/kubsu/Computer-network/prj2_1/client.cc",
+  "file": "/home/usercommon/kubsu/Computer-network/prj2_1/client.cc",
+  "output": "CMakeFiles/client.dir/client.cc.o"
+},
+{
+  "directory": "/home/usercommon/kubsu/Computer-network/prj2_1/out/Debug",
+  "command": "/usr/bin/c++   -g -o CMakeFiles/server.dir/server.cc.o -c /home/usercommon/kubsu/Computer-network/prj2_1/server.cc",
+  "file": "/home/usercommon/kubsu/Computer-network/prj2_1/server.cc",
+  "output": "CMakeFiles/server.dir/server.cc.o"
+}
+]
