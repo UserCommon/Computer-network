@@ -1,0 +1,5 @@
+/home/usercommon/kubsu/Computer-network/prj2_3/out/CMakeFiles/MessageLib.dir
+/home/usercommon/kubsu/Computer-network/prj2_3/out/CMakeFiles/server.dir
+/home/usercommon/kubsu/Computer-network/prj2_3/out/CMakeFiles/client.dir
+/home/usercommon/kubsu/Computer-network/prj2_3/out/CMakeFiles/edit_cache.dir
+/home/usercommon/kubsu/Computer-network/prj2_3/out/CMakeFiles/rebuild_cache.dir
