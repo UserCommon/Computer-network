@@ -1,0 +1,5 @@
+/home/usercommon/kubsu/Computer-network/prj2_4(udp_final)/out/CMakeFiles/MessageLib.dir
+/home/usercommon/kubsu/Computer-network/prj2_4(udp_final)/out/CMakeFiles/server.dir
+/home/usercommon/kubsu/Computer-network/prj2_4(udp_final)/out/CMakeFiles/client.dir
+/home/usercommon/kubsu/Computer-network/prj2_4(udp_final)/out/CMakeFiles/edit_cache.dir
+/home/usercommon/kubsu/Computer-network/prj2_4(udp_final)/out/CMakeFiles/rebuild_cache.dir
