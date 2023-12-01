@@ -1,0 +1,5 @@
+/home/usercommon/kubsu/Computer-network/http-actions/out/CMakeFiles/lib.dir
+/home/usercommon/kubsu/Computer-network/http-actions/out/CMakeFiles/server.dir
+/home/usercommon/kubsu/Computer-network/http-actions/out/CMakeFiles/client.dir
+/home/usercommon/kubsu/Computer-network/http-actions/out/CMakeFiles/edit_cache.dir
+/home/usercommon/kubsu/Computer-network/http-actions/out/CMakeFiles/rebuild_cache.dir
